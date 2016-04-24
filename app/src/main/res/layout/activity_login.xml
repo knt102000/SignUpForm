@@ -39,7 +39,7 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:id="@+id/password_field"
+                android:id="@+id/password_label"
                 android:layout_weight="25"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
